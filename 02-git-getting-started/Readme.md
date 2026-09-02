@@ -97,4 +97,4 @@ In dieser Aufgabe legst du ein Repository an und erstellst deine ersten Commits 
 - Warum braucht jeder Commit eine Nachricht?
 - Welchen Git-Befehlen entsprechen die Buttons **Repository initialisieren**, **+** und **Commit**?
 
-## Dies ist nur ein Test! Ich will damit prüfen, ob eine Änderung einfach so möglich ist.
+## Dies ist nur ein Test! Ich will damit prüfen, ob eine Änderung einfach so möglich ist!
