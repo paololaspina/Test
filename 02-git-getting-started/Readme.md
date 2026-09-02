@@ -12,7 +12,7 @@ Ein Repository (kurz: Repo) ist der Speicherort eines Projekts, in dem Git alle 
 
 Ein Commit ist ein gespeicherter Zwischenstand des Projekts – wie ein Schnappschuss aller Dateien zu einem bestimmten Zeitpunkt. Jeder Commit hat eine eindeutige ID und eine Nachricht, die beschreibt, was geändert wurde. So lässt sich die Historie nachvollziehen und jederzeit zu einem früheren Stand zurückkehren.
 
-## Git installieren
+## Git installieren..
 
 Unter Ubuntu/WSL ist Git meist schon vorinstalliert. Falls nicht:
 
@@ -96,3 +96,5 @@ In dieser Aufgabe legst du ein Repository an und erstellst deine ersten Commits 
 - Was bedeutet das **U** bzw. das **M** neben einer Datei in der Quellcodeverwaltung?
 - Warum braucht jeder Commit eine Nachricht?
 - Welchen Git-Befehlen entsprechen die Buttons **Repository initialisieren**, **+** und **Commit**?
+
+## Dies ist nur ein Test! Ich will damit prüfen, ob eine Änderung einfach so möglich ist.
